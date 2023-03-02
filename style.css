@@ -40,7 +40,7 @@ body * {
 }
 
 #container {
-    width: 100px;
+    width: 360px;
     max-width: 588px;
     margin: 56px auto 0px;
     padding: 0 24px;
@@ -171,3 +171,4 @@ footer {
     text-align: center;
     font-size: 14px;
 }
+
